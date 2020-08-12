@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "name": "Áo Phông Xẻ Tà",
+      "cateId": "1",
+      "image": "https://thoitrangmanly.com/wp-content/uploads/2018/12/Ao-Thun-Nam-Han-Quoc-Sanh-Dieu-ATQ04.jpg",
+      "price": "5000",
+      "id": 1
+    },
+    {
+      "image": "https://thoitrangmanly.com/wp-content/uploads/2018/12/Ao-Thun-Nam-Han-Quoc-Dep-ATQ05.jpg",
+      "cateId": "2",
+      "name": "Áo KaKi Nam",
+      "price": "1111",
+      "id": 4
+    },
+    {
+      "name": "Áo Phông đen phối trắng",
+      "cateId": "3",
+      "image": "https://thoitrangmanly.com/wp-content/uploads/2018/12/Ao-Thun-Nam-Han-Quoc-Hang-Hieu-ATQ03.jpg",
+      "price": "6666",
+      "id": 5
+    },
+    {
+      "id": "z5ymzbkr4",
+      "name": "Quần Jogger Nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-image.appspot.com/o/images%2F1.jpg?alt=media&token=01e7e830-cd53-425e-9d0c-b89db66557ee",
+      "cateId": "1",
+      "price": "9876"
+    },
+    {
+      "id": "xjzwqcztj",
+      "name": "Quần Jean Nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-image.appspot.com/o/images%2F2.jpg?alt=media&token=56fba7b2-b413-48ce-bdd2-7467c1dc7284",
+      "cateId": "2",
+      "price": "1999"
+    },
+    {
+      "id": "05raqlxzy",
+      "name": "Quần Sooc Nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-image.appspot.com/o/images%2F3.jpg?alt=media&token=d3b71816-509a-4186-9f0c-ebe978456af7",
+      "cateId": "3",
+      "price": "2000"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name_cate": "Bộ Hè",
+      "desc": "Lorem"
+    },
+    {
+      "name_cate": "Bộ Thu",
+      "desc": "Lorem",
+      "id": 2
+    },
+    {
+      "name_cate": "Bộ Đông",
+      "desc": "Lorem",
+      "id": 3
+    },
+    {
+      "name_cate": "demo",
+      "desc": "hello word",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": "3nt9a46td",
+      "title": "Áo Dài Tay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-image.appspot.com/o/images%2F6tl19w001-sa026-m.jpg?alt=media&token=4d95222d-a184-45ea-867c-06bd52318fca",
+      "short": "Những chiếc áo dài tay hợp lý mặc vào mùa thu đông",
+      "content": "Được nhập khẩu từ Mỹ với chất vải thoáng mát.Giặt máy nhẹ nhàng, ở nhiệt độ thường, Không sử dụng hóa chất tẩy có chứa Clo. Phơi trong bóng mát. Sấy khô ở nhiệt độ thấp. Là ở nhiệt độ thấp 110 độ C. Giặt với sản phẩm cùng màu. Không là lên chi tiết trang trí."
+    },
+    {
+      "id": "bckya1r1i",
+      "title": "Quần Cộc",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assignment-image.appspot.com/o/images%2F4.jpg?alt=media&token=4ae117a5-7269-4942-bc4f-9806d79bce19",
+      "short": "Quần đẹp Freestyle thoáng mát",
+      "content": "Chất vải coton hàng xuất khẩu dư mềm mại . Cam kết chất lượng và mẫu mã sản phẩm giống với hình ảnh - Được thiết kế với cổ trụ mang đến phong cách thời trang, lịch sự cho người mặc."
+    }
+  ]
+}
